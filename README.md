@@ -15,3 +15,6 @@ uln2003 Darlington amplifier is used to have a strong current with 7 segment cat
 
 The voltage regulator lm7805 is used to regulate and distribute the voltage in our circuit.
 link of jlcpcb: https://jlcpcb.com/HAR
+
+![1668109575643](https://user-images.githubusercontent.com/116353850/201205971-5e2ce99c-f21c-4031-8e8c-56867e453228.jpg)
+![images](https://user-images.githubusercontent.com/116353850/201206135-42fa360f-fac7-4da1-8335-6a54e22621a1.png)
